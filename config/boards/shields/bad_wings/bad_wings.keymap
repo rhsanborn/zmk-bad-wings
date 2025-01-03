@@ -6,7 +6,8 @@
 //#define X_RH  &smart_mouse  // thumb row, right
 
 /* source the main keymap */
-#include "base.keymap"
+//#include "base.keymap"
+#include "base_miryoku_qwerty_vim.keymap"
 
 /* use 5-column layout for Zen */
 /{ chosen { zmk,physical-layout = &foostan_corne_5col_layout; }; };
