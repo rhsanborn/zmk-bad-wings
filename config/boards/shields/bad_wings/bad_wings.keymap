@@ -2,7 +2,7 @@
 #include "zmk-helpers/key-labels/36.h"
 
 /* map Zen's extra keys */
-#define X_LH  &lt ESC FN      // thumb row, left
+#define X_LH  &lt FN ESC     // thumb row, left
 #define X_RH  &bspc_del  // thumb row, right
 
 /* source the main keymap */
